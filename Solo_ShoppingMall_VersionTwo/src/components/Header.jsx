@@ -22,7 +22,7 @@ const Header = () => {
                     <ul className="dropdown-menu">
                         <li><a className="dropdown-item" href="#">OOO님, 안녕하세요!</a></li>
                         <li><Link to="/products/list" className="dropdown-item" href="#"><FontAwesomeIcon icon={faGift} />상품리스트 페이지!</Link></li>
-                         <li> <Link to="/bookmark"  className="dropdown-item" href="#"><FontAwesomeIcon icon={faStar} />북마크 페이지 입니다</Link></li>
+                         <li> <Link to="/bookmark"  className="dropdown-item" href="#"><FontAwesomeIcon icon={faStar} />북마크 페이지 입니다!</Link></li>
 
                     </ul>
                 </span>
