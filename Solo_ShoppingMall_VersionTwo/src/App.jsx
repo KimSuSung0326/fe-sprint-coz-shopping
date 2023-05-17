@@ -15,7 +15,7 @@ function App() {
         <Header />
         <Routes>
           <Route path='/' element={<MainPage />}></Route>
-          <Route path="/products/list" element={<ProductList />}></Route>
+          <Route path="/products/list"  element={<ProductList />}></Route>
           <Route path="/bookmark" element={<Bookmark />}></Route>
         </Routes>
         <Footer />
