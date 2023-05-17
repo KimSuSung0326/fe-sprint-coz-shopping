@@ -1,0 +1,47 @@
+* {
+ 
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  
+}
+hr{
+  width: 100em;
+}
+.footer{
+  text-align: center;
+  color: gray;
+}
+.header{
+  text-align: center;
+}
+.main{
+  text-align: center;
+}
+.img{
+position: absolute;
+left: 5.94%;
+right: 89.77%;
+top: 31.25%;
+bottom: 31.25%;
+
+
+}
+.text{
+  position: absolute;
+left: 12.17%;
+right: 70.86%;
+top: 32.48%;
+bottom: 31.48%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 88.02%;
+align-items: center;
+color: #000000;
+}
+
+
